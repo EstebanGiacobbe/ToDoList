@@ -9,6 +9,10 @@ Technology | Purpose
 ------------ | -------------
 [HTML] | Structure and Presentation of the Webpage
 [CSS] | Styling of HTML Elements
+[Node.js] | Backend development
+[MongoDB] | Database used
+[Mongoose]| ODM
+[Heroku] | Platform used to deploy application
 [Atom](https://atom.io/) | Text Editor Used
 
 
